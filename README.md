@@ -1,20 +1,20 @@
 # bikesharing
 
-#Overview
+# Overview
 
 In Analysis, New York City Citibike data from August 2019 was used to determine is Citibike would be a good fit for Des Moines, Iowa. Using
 
 
-#resources
+# resources
 
 Tableau Public
 Python3
   Pandas
 201908-citibike-tripdata
 
-#Results of NYC Citibike Data for August 2019
+## Results of NYC Citibike Data for August 2019
 
-#Link to Tableau Dashboard
+# Link to Tableau Dashboard
 
 https://public.tableau.com/views/BikeSharing_Challenge_16466289813030/Challenge_Story?:language=en-US&:display_count=n&:origin=viz_share_link
 
